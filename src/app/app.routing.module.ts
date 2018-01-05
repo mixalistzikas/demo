@@ -38,7 +38,7 @@ const appRoutes: Routes = [
    },
    {
       path: '**',
-      redirectTo: '/companies'
+      redirectTo: '/dashboard'
    }
 ];
 
